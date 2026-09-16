@@ -5,7 +5,7 @@ A trashcan that recognizes what you throw in and sorts it for you. A camera and 
 ## Demo
 
 <!-- To play the video inline: edit this README on github.com, delete the line below, and drag demo_video.mp4 into the editor. GitHub will insert a playable video link. -->
-https://github.com/d4v1dm3d1n4/Smart-Trashcan/raw/main/demo_video.mp4
+https://github.com/user-attachments/assets/06d290a4-9a7a-48cc-b8d8-321028cc64f9
 
 <p align="center">
   <img src="final_result.png" alt="Smart Trashcan final prototype" width="600">
